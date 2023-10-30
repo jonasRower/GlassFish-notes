@@ -1,3 +1,3 @@
 # GlassFish-notes
 
-Contents some notes by testing GlassFish on Ubuntu
+It contents some notes by testing GlassFish on Ubuntu
